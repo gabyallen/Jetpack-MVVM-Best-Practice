@@ -1,4 +1,5 @@
 ![slogan.png](https://upload-images.jianshu.io/upload_images/57036-896e7a8809a9a705.png)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabyallen)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;
 
